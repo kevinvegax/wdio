@@ -31,6 +31,7 @@ export const config: WebdriverIOConfig = {
     //
     specs: [
         // ToDo: define location for spec files here
+        './src/WF/ERPS-001.ts'
     ],
     // Patterns to exclude.
     exclude: [
